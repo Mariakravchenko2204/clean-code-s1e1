@@ -92,7 +92,6 @@ body {
   font-family: Lato, sans-serif;
   color: #888;
   width: 226px;
-
 }
 
 .input:focus {
@@ -114,14 +113,11 @@ body {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
   vertical-align: middle;
 }
-
-
 
 .checkbox {
   margin: 0 10px;
